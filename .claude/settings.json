@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/laetitia.decre/projetPerso/studio/netlify/functions)"
+    ],
+    "additionalDirectories": [
+      "/home/laetitia.decre/projetPerso/studio/netlify"
+    ]
+  }
+}
